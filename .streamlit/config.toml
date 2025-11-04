@@ -1,0 +1,11 @@
+[theme]
+font = "serif"
+backgroundColor="#56dc14ff"
+secondaryBackgroundColor="#098FC8"
+textColor="#fff"
+[theme.sidebar]
+font = "sans-serif"
+backgroundColor="#c84509ff"
+secondaryBackgroundColor="#d9dc14ff"
+textColor="#000"
+
